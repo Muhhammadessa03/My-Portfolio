@@ -75,7 +75,7 @@ Interest
     <IoLocation className='text-red-700 text-[22px]'/>
 Location
 <div> :</div>
-<div> Mirpur Mathelo, Ghotki, Sindh </div>
+<div> Mirpur Mathelo, District Ghotki </div>
 </div>
 
 <div className='max-w-[800px] '> 
